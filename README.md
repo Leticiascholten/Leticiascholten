@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2>Hello, I’m Letícia Scholten!</h2>
 
-<!--
-**Leticiascholten/Leticiascholten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Professional profile:</h4>
 
-Here are some ideas to get you started:
+- 💁♀️ Front End Developer.
+- 📚 Completed courses:  Javascript | HTML | CSS | React.js | Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>About me:</h4>
+
+- 👾 Creative.	
+- 🎠 Fun.				
+- ♌ Lion sign.
+- 🐾 Animal lover.		
+- 📚 Study lover.		
+- 🏝 Beach lover.
+- 🥗 Fitness life.			
+- 🏋️ Gym.			
+- 🌼 Open air.
+- 💭 Sometimes we are tested not to show our weaknesses, but to discover our strengths.
+
+
