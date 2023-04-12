@@ -18,4 +18,10 @@
 - 🌼 Open air.
 - 💭 Sometimes we are tested not to show our weaknesses, but to discover our strengths.
 
+<h4>Repository link:</h4>
+
+- https://memorygameleticiascholten.netlify.app/
+- https://unicorniojumpleticiascholten.netlify.app/
+- https://projetopizzaleticiascholten.netlify.app/
+- https://unicorbatlleleticiascholten.netlify.app/
 
